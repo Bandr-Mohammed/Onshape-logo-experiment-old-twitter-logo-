@@ -4,6 +4,3 @@ Here i made the old Twitter logo using `Onshape`, defining dimentions, and using
 
 The file of the finel product is uploaded in this repository as a STL file.
 
-## The final product
-
-![Image ALT]()
