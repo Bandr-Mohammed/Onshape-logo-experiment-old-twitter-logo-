@@ -16,7 +16,7 @@ First sketch:
 
 
 
-First extrude (new):
+First extrude `4mm` (new):
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(15).png?raw=true)
 
@@ -36,4 +36,8 @@ Second extrude (remove):
 
 ## Final product
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(18).png?raw=true)
+
+``
+
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(19).png?raw=true)
