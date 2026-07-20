@@ -10,23 +10,23 @@ Link for the logo document on `Onshape`: https://cad.onshape.com/documents/0022a
 
 First sketch:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(13).png?raw=true)
 
 
 
 First extrude:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(15).png?raw=true)
 
 
 
 Second sketch:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(16).png?raw=true)
 
 
 
 Second extrude:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(14).png?raw=true)
 
