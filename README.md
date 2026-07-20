@@ -14,7 +14,7 @@ First sketch:
 
 
 
-First extrude:
+First extrude (new):
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(15).png?raw=true)
 
@@ -26,7 +26,7 @@ Second sketch:
 
 
 
-Second extrude:
+Second extrude (remove):
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Onshape-logo-experiment-old-twitter-logo-/blob/main/Screenshot%20(14).png?raw=true)
 
